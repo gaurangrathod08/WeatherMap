@@ -23,6 +23,7 @@ import utils.TestDataUtils;
 public class OpenWeatherTest {
 	WebDriver driver;
 
+	
 	public OpenWeatherTest(DriverUtils utils) {
 		this.driver = utils.getdriver();
 	}

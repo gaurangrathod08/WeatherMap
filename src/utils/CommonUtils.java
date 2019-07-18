@@ -15,6 +15,7 @@ public class CommonUtils {
 		wait = new WebDriverWait(driver, DefaultTimeOut);
 	}
 
+	
 	/**
 	 * This method is used to wait until element is visible and return true and
 	 * false value

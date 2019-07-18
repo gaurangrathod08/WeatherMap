@@ -27,6 +27,7 @@ When I enter city name as "MUMBAI" and click on search button
 Then I see "Mumbai, IN" is displayed
 And I close the window
 
+
 @TC04 @Weather
 Scenario: Verify API 
 

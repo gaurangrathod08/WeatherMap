@@ -103,6 +103,7 @@ public class OpenWeatherPage extends CommonUtils {
 	@FindBy(css = ".row.owm-weathermap .row.owm-weathermap__items")
 	private WebElement weatherMap;
 
+	
 	public OpenWeatherPage(WebDriver driver) {
 		super(driver);
 		this.driver = driver;
